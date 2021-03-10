@@ -1,5 +1,7 @@
 # carp
 
+> Current implementation of this package is missing its dependency **fishpkg/fish-git-util** (it got vanished! 😨) – anyway I start to using https://github.com/jorgebucaran/hydro so I'm archiving this. So Long, and Thanks for All the Fish.
+
 My personalized theme for [Fish]🐟 inspired by [Gitster].
 
 ![carp]
